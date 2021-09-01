@@ -1,0 +1,27 @@
+body,
+nav {
+  background-image: var(--bs-gradient);
+}
+
+.wrapper {
+    height: 100%;
+}
+
+nav {
+  border-radius: 0;
+}
+
+body {
+  .wrapper {
+    height: 100vh;
+    .inputas {
+      width: 30%;
+      input{
+        width: 70%;
+      }
+    }
+  }
+  .paras {
+    color: red;
+  }
+}
